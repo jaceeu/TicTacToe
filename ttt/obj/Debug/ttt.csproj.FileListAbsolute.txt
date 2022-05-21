@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\ttt\ttt\bin\Debug\ttt.exe.config
+C:\Users\Carlo\source\repos\ttt\ttt\bin\Debug\ttt.exe
+C:\Users\Carlo\source\repos\ttt\ttt\bin\Debug\ttt.pdb
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.Form1.resources
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.Properties.Resources.resources
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.exe
+C:\Users\Carlo\source\repos\ttt\ttt\obj\Debug\ttt.pdb
